@@ -1,0 +1,299 @@
+
+* {
+  margin: 0 auto;
+}
+
+.firstChild {
+  height: 80vh;
+}
+
+.logoImg {
+  width     : 146px;
+  height    : 80px;
+  margin-top: 20px;
+}
+
+.lastImage img {
+  width: 38.75vw;
+}
+
+.large-heading {
+  font-weight: 800;
+  font-size  : 46px;
+  line-height: 4.8125vw;
+  text-align : center;
+  font-family: "Poppins", sans-serif;
+  margin-top : 1.25vw;
+  font-style : normal;
+}
+
+.large-heading span {
+  color: #3C7DF6 !important;
+}
+
+.B-color {
+  color: #3C7DF6 !important;
+
+}
+
+.large-heading-spe {
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 5.8125vw;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  margin-top: 2.25vw;
+  font-style: normal;
+}
+
+.againpara {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 40px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #575A60;
+  margin-top: 10px;
+  width: 670px;
+}
+
+.para {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #575A60;
+  width: 670px;
+  margin-top: 15px;
+}
+
+.para-2 {
+  font-weight: 400;
+  font-size: 2.90vw;
+  line-height: 3.46875vw;
+  margin-top: 2.25vw;
+  margin-bottom: 2.25vw;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-style: normal;
+}
+
+.firstChild {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.join-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 8px;
+  width: 309px;
+  height: 56px;
+  background: #2072ED;
+  border-radius: 7px;
+  margin-top: 30px;
+  border: none;
+  color: #F2F6FF;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.join-button-spe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 8px;
+  width: 309px;
+  height: 56px;
+  background: #2072ED;
+  border-radius: 7px;
+  margin-top: 50px;
+  border: none;
+  color: #F2F6FF;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  margin-left: 0px;
+  margin-bottom: 100px;
+  align-self: center;
+}
+
+.secondChild {
+  width: 100%;
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.subthirdchild {
+  width: 87%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.para2 {
+  font-weight: 400;
+  font-size: 1.40625vw;
+  line-height: 2.34375vw;
+  color: #575A60;
+  font-family: "Poppins", sans-serif;
+  margin-top: 20px;
+  width: 670px;
+
+}
+
+
+.banner-image {
+  width: 80%;
+}
+
+.thirdChild {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.lastImage {
+  width: 50%;
+}
+
+.lastDatils {
+  width: 50%;
+}
+
+.ListW {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 35px;
+  color: #575A60;
+  color: #575A60;
+  margin-left: 0;
+  padding-left: 12px;
+  font-family: "Poppins", sans-serif;
+
+
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+
+svg {
+  margin: 0;
+}
+
+@media only screen and (max-width: 750px) {
+
+  .para,
+  .para2,
+  .againpara {
+    width: 90%;
+  }
+
+    
+
+  .logoImg {
+    width: 122px;
+height: 67px;
+  }
+
+  .lastDatils {
+    width: 100%;
+  }
+
+  .lastImage {
+    margin-top: 40px;
+    width: 90%;
+  }
+
+  .lastImage img {
+    width: 100%;
+  }
+
+  .large-heading {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    /* margin-top : 2.25vw; */
+
+  }
+
+  .large-heading-spe {
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 41px;
+  }
+
+  .para {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "Poppins", sans-serif;
+    color: #575A60;
+    text-align: center;
+  }
+
+  .para2 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .join-button-spe {
+    margin-left: auto;
+  }
+
+  .subthirdchild {
+    width: 85%;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .logoImg {
+    margin-top: 30px;
+  }
+
+  .join-button {
+    margin-top: 10px;
+  }
+  .para{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .againpara{
+    font-weight: 600;
+    font-size  : 20px;
+    line-height: 30px;
+  }
+  .banner-image{
+    width: 95%;
+  }
+}
