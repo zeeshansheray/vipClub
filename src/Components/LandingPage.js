@@ -19,7 +19,7 @@ function LandingPage() {
         Receive a <span class="B-color">FREE PIZZA</span> every month, plus daily specials & other discounts that are
         only available to members. See our all the benefits below.
       </p>
-      <button className="join-button">Join Now</button>
+      <button className="join-button cp" onClick={()=>window.open('https://walletly.xyz/page/iKPoIw4iWAiJA6a7mXaD/vipclub', '_blank')}>Join Now</button>
     </div>
 
     <div className="secondChild">
@@ -66,7 +66,7 @@ function LandingPage() {
               <p className="ListW">Sundays Free Combo Upgrades</p>
             </li>
           </ul>
-          <button className="join-button-spe">Join Now</button>
+          <button className="join-button-spe cp" onClick={()=>window.open('https://walletly.xyz/page/iKPoIw4iWAiJA6a7mXaD/vipclub', '_blank')}>Join Now</button>
         </div>
       </div>
 
