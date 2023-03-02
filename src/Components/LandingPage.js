@@ -10,7 +10,7 @@ function LandingPage() {
         <img className="logoImg" src={images.logo} alt="logo" />
       </div>
       <h1 class="large-heading">
-        Why Be A Guest.<br/> When You Can Be A <span class="large-heading">Member?</span>
+        Why Be A Guests.<br/> When You Can Be A <span class="large-heading">Member?</span>
       </h1>
       <p className="againpara">
       For $9.99 / Month enjoy FREE items & exclusive deals everyday!
