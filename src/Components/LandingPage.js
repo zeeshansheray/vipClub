@@ -13,11 +13,10 @@ function LandingPage() {
         Why Be A Guest.<br/> When You Can Be A <span class="large-heading">Member?</span>
       </h1>
       <p className="againpara">
-        For $9.99/Month you can enjoy FREE items and amazing discounts everyday!
+      For $9.99 / Month enjoy FREE items & exclusive deals everyday!
       </p>
       <p className="para">
-        Receive a <span class="B-color">FREE PIZZA</span> every month, plus daily specials & other discounts that are
-        only available to members. See our all the benefits below.
+        Receive a <span class="B-color">FREE PIZZA</span> every month,deals that are only available to members. See all  the benefits below.
       </p>
       <button className="join-button cp" onClick={()=>window.open('https://walletly.xyz/page/iKPoIw4iWAiJA6a7mXaD/vipclub', '_blank')}>Join Now</button>
     </div>
@@ -77,3 +76,7 @@ function LandingPage() {
     
 }
 export default LandingPage ;
+
+
+
+
